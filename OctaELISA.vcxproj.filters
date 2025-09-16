@@ -1,0 +1,337 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Form Files">
+      <UniqueIdentifier>{99349809-55BA-4b9d-BF79-8FDBB0286EB3}</UniqueIdentifier>
+      <Extensions>ui</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Form Files">
+      <UniqueIdentifier>{99349809-55BA-4b9d-BF79-8FDBB0286EB3}</UniqueIdentifier>
+      <Extensions>ui</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;moc;h;def;odl;idl;res;</Extensions>
+    </Filter>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;moc;h;def;odl;idl;res;</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="log">
+      <UniqueIdentifier>{8592c6eb-3c50-46fe-9297-1768397e6b6c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mainwidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mainwindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="elisaMain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="elisaProject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mymessagebox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="portConn.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="qaesencryption.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="set_tem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="systemSet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="widgetTable.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LOG\RJLog.cpp">
+      <Filter>log</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="mainwidget.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="mainwindow.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="elisaMain.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="elisaProject.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="portConn.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="qaesencryption.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="set_tem.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="systemSet.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="widgetTable.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="debug\moc_predefs.h.cbt">
+      <Filter>Generated Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="release\moc_predefs.h.cbt">
+      <Filter>Generated Files</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <QtUic Include="mainwidget.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="mainwindow.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="elisaMain.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="elisaProject.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="portConn.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="systemSet.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="widgetTable.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="-1.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="-10.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="-11.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="-12.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="-13.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="-14.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="-15.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="-16.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="-17.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="-18.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="-2.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="-3.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="-4.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="-5.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="-6.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="-7.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="-8.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="-9.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\Wi-Fi.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\add.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\back.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\backGround.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\base-select">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\cha.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\chakan.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\check.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\close.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\close2.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\company.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\daosanjiao.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\error.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\full.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\gou.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\info.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\inqu.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\logo.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\logox.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\loss.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\myQSS.qss">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\nofull.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\ok.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\openLogo.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\pass.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\plus.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\project.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <QtRcc Include="qss.qrc">
+      <Filter>Resource Files</Filter>
+    </QtRcc>
+    <None Include="image\rightdown.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\save.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\seriport.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\set.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\shrink.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\shrink2.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\shui.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\start.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\uncheck.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\use.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\user.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\warning.png">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="base.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="mymessagebox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LOG\RJLog.h">
+      <Filter>log</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,60 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>image/close.png</file>
+        <file>image/close2.png</file>
+        <file>image/daosanjiao.png</file>
+        <file>image/error.png</file>
+        <file>image/full.png</file>
+        <file>image/info.png</file>
+        <file>image/logo.png</file>
+        <file>image/logox.png</file>
+        <file>image/nofull.png</file>
+        <file>image/openLogo.png</file>
+        <file>image/pass.png</file>
+        <file>image/rightdown.png</file>
+        <file>image/shrink.png</file>
+        <file>image/shrink2.png</file>
+        <file>image/uncheck.png</file>
+        <file>image/user.png</file>
+        <file>image/warning.png</file>
+        <file>image/check.png</file>
+        <file>image/inqu.png</file>
+        <file>image/project.png</file>
+        <file>image/set.png</file>
+        <file>image/myQSS.qss</file>
+        <file>image/company.png</file>
+        <file>image/back.png</file>
+        <file>image/ok.png</file>
+        <file>image/cha.png</file>
+        <file>image/gou.png</file>
+        <file>image/shui.png</file>
+        <file>image/add.png</file>
+        <file>image/loss.png</file>
+        <file>image/start.png</file>
+        <file>image/base-select -1.png</file>
+        <file>image/base-select -2.png</file>
+        <file>image/base-select -3.png</file>
+        <file>image/base-select -4.png</file>
+        <file>image/base-select -5.png</file>
+        <file>image/base-select -6.png</file>
+        <file>image/base-select -7.png</file>
+        <file>image/base-select -8.png</file>
+        <file>image/base-select -9.png</file>
+        <file>image/base-select -10.png</file>
+        <file>image/base-select -11.png</file>
+        <file>image/base-select -12.png</file>
+        <file>image/base-select -13.png</file>
+        <file>image/base-select -14.png</file>
+        <file>image/base-select -15.png</file>
+        <file>image/base-select -16.png</file>
+        <file>image/base-select -17.png</file>
+        <file>image/base-select -18.png</file>
+        <file>image/backGround.png</file>
+        <file>image/Wi-Fi.png</file>
+        <file>image/save.png</file>
+        <file>image/chakan.png</file>
+        <file>image/use.png</file>
+        <file>image/plus.png</file>
+        <file>image/seriport.png</file>
+    </qresource>
+</RCC>
